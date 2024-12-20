@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy for Lista - Shopping List</title>
+</head>
+<body>
+    <h1>Privacy Policy for Lista - Shopping List</h1>
+    <p>Last updated: December 18, 2024</p>
+    <p>At Lista - Shopping List, we value your privacy and are committed to being transparent about how we handle your data. This Privacy Policy explains our practices regarding data collection, storage, and usage.</p>
+
+    <h2>No Data Collection or Storage</h2>
+    <p>We do not collect, store, use, or share any personal information or usage data from users of our application. Your shopping lists and any data entered into the app remain entirely private and are stored locally on your device.</p>
+    <ul>
+        <li><strong>Personal Data:</strong> We do not request or collect any personal data such as your name, email, or contact details.</li>
+        <li><strong>Usage Data:</strong> We do not collect any information about how you use the app, your device details, or your browsing activities.</li>
+    </ul>
+
+    <h2>Permissions</h2>
+    <p>Our app does not request any device permissions (e.g., access to your camera, location, or storage) except as necessary for its core functionality. Any data accessed is not transmitted, collected, or shared.</p>
+
+    <h2>Third-Party Services</h2>
+    <p>We do not use any third-party services, libraries, or frameworks that track, collect, or process user data. This includes analytics services, advertising platforms, or cloud storage providers.</p>
+
+    <h2>Children's Privacy</h2>
+    <p>Our application does not collect any data and is safe for users of all ages, including children under the age of 13.</p>
+
+    <h2>Links to Other Websites</h2>
+    <p>The app does not contain links to external websites or third-party services.</p>
+
+    <h2>Data Retention and Deletion Policy</h2>
+    <p>No user data is collected; therefore, we do not retain or delete any user data.</p>
+
+    <h2>Changes to this Privacy Policy</h2>
+    <p>We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated "Last updated" date. We encourage you to review this Privacy Policy periodically to stay informed.</p>
+
+    <h2>Contact Us</h2>
+    <p>If you have any questions or concerns about this Privacy Policy, you can contact us at:</p>
+    <p>Email: <a href="mailto:vynix.s.m@gmail.com">vynix.s.m@gmail.com</a></p>
+</body>
+</html>
